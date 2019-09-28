@@ -1,1 +1,3 @@
 this is a test doc for git.
+today is a good day.
+tommorrow
